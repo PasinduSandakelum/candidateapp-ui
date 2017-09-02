@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CandidateAppUI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
@@ -26,3 +27,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# candidateapp-ui
+This is the front-end version of CandidateApp. CandidateApp is a simple web app with springboot, postgre, angular2 and bootstrap
+>>>>>>> c7057c7c2b27da7d62c5f9473c4d2ea0f3ce0830
